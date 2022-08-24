@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <H2>Welcome to my webpage</H2>
+        <p><b>Today I will Talk ducks. And I will talk about the pros and cons about ducks&#128512;</b></p>
+        <a href="index2.html">My second webpage </a>
+        <h3>Pros</h3>
+        <ol type="I">
+            <li>Ducks are generally healthier</li>
+            <hr>
+            <li>Ducks are quiet for the most part</li>
+            <hr>
+            <li>Ducks adhere to a far less aggressive pecking order</li>
+            <hr>
+        </ol>  
+        <h4>Cons</h4>
+        <ul>
+            <li>Need clean water to bathe in.</li>
+            <hr>
+            <li>Ducks eat more than chickens.</li>
+            <hr>
+            <li>Ducks lay eggs where they feel like it.</li>
+            <hr>
+        </ul>  
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Amerikanische_Pekingenten_2013_01%2C_cropped.jpg" alt="Duckies" style="width:300px;height:300px;">
+            <p><a href="https://kids.nationalgeographic.com/animals/birds/facts/mallard-duck">learn more about these Duckies!!</a></p>
+        <style>
+            body {
+            background-color: lightblue;
+            }
+        </style>
+</body>
+</html>

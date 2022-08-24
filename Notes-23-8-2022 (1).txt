@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+
+            .p3 {
+                font-family: "Lucida Console", "Courier New", monospace;
+            }
+        </style>
+    </head>
+<body>
+<p class="p3">Welcome to my Second webpage</p>
+<p class="p3">Reasons why Mf doom is the illest villian</p>
+<a href="index.html">My first webpage </a>
+<h3>reasons</h3>
+        <ol type="I">
+            <li>He likes doctor doom (top 3 best villians)</li>
+            <hr>
+            <li>His freestyling is from another planet</li>
+            <hr>
+            <li>He made rapp snitches knitches</li>
+            <hr>
+        </ol>  
+        <h4>more reasons</h4>
+        <ul>
+            <li>Most people like rap and hes apart of rap</li>
+            <hr>
+            <li>He featured with madlib/quasimoto</li>
+            <hr>
+            <li>Hes the illest villian</li>
+            <hr>
+        </ul>  
+        <img src="https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2021/10/madison-grosvenor-mf-doom-arts.png?w=2400&ssl=1" alt="Duckies" style="width:300px;height:300px;">
+             <p><a href="https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL">put y'all on one</a></p>
+         <style>
+            body {
+            background-color: lightgreen;
+            }
+        </style>
+
+
+</body>
+</html>
